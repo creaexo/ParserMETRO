@@ -1,0 +1,818 @@
+[
+    {
+        "id": "117223",
+        "title": "METRO Chef Шея свиная бескостная охлажденная, ~600г",
+        "link": "https://online.metro-cc.ru/products/sheya-beskostnaya-metro-chef",
+        "brand": "METRO CHEF"
+    },
+    {
+        "id": "117229",
+        "title": "METRO Chef Эскалоп свиной охлажденный, ~600г",
+        "link": "https://online.metro-cc.ru/products/karbonad-svinoj-beskostnyj-metro-chef",
+        "brand": "METRO CHEF"
+    },
+    {
+        "id": "218233",
+        "title": "METRO Chef Гуляш из свинины охлажденный, ~600г",
+        "link": "https://online.metro-cc.ru/products/600g-gulyash-iz-svininy-metro-chef-ohl",
+        "brand": "METRO CHEF"
+    },
+    {
+        "id": "117221",
+        "title": "METRO Chef Котлета свиная охлажденная, ~600г",
+        "link": "https://online.metro-cc.ru/products/korejka-na-kosti-metro-chef",
+        "brand": "METRO CHEF"
+    },
+    {
+        "id": "236258",
+        "title": "METRO Chef Шея свиная бескостная стейки охлажденная, 600г",
+        "link": "https://online.metro-cc.ru/products/metro-chef-sheya-svinaya-beskostnaya-steyki-ohlazhdennaya-600g",
+        "brand": "METRO CHEF"
+    },
+    {
+        "id": "90404",
+        "title": "METRO Chef Окорок свиной охлажденный",
+        "link": "https://online.metro-cc.ru/products/okorok-svinoj-metro-chef-gazonapolnennaya-upakovka-90404",
+        "brand": "METRO CHEF"
+    },
+    {
+        "id": "228304",
+        "title": "Шейка свиная АгроЭко без кости охлажденная, ~2.8кг",
+        "link": "https://online.metro-cc.ru/products/275kg-sheyka-svinaya-agroeko-bk-ohl-vu",
+        "brand": "АГРОЭКО"
+    },
+    {
+        "id": "228305",
+        "title": "Карбонад свиной АгроЭко без кости охлажденный, ~4кг",
+        "link": "https://online.metro-cc.ru/products/karbonad-svinoy-agroeko-bez-kosti-ohlazhdennyy-4kg",
+        "brand": "АГРОЭКО"
+    },
+    {
+        "id": "235014",
+        "title": "Рулька АгроЭко к пиву охлажденная, ~1.1кг",
+        "link": "https://online.metro-cc.ru/products/rulka-agroeko-k-pivu-ohlazhdennaya-11kg",
+        "brand": "АГРОЭКО"
+    },
+    {
+        "id": "228303",
+        "title": "Вырезка свиная АгроЭко охлажденная, ~2кг",
+        "link": "https://online.metro-cc.ru/products/19kg-vyrezka-svinaya-agroeko-ohl-vu",
+        "brand": "АГРОЭКО"
+    },
+    {
+        "id": "228309",
+        "title": "Грудинка свиная АгроЭко охлажденная, ~6кг",
+        "link": "https://online.metro-cc.ru/products/grudinka-svinaya-agroeko-ohlazhdennaya-6kg",
+        "brand": "АГРОЭКО"
+    },
+    {
+        "id": "228307",
+        "title": "Корейка свиная АгроЭко охлажденная, ~5кг",
+        "link": "https://online.metro-cc.ru/products/5kg-koreyka-svinaya-agroeko-ohl-vu",
+        "brand": "АГРОЭКО"
+    },
+    {
+        "id": "635072",
+        "title": "Шейка свиная Атяшево охлажденная, ~7кг",
+        "link": "https://online.metro-cc.ru/products/shejka-vakuumnaya-upakovka-atyashevo",
+        "brand": "АТЯШЕВО"
+    },
+    {
+        "id": "635074",
+        "title": "Окорок свиной Атяшево охлажденный, ~9кг",
+        "link": "https://online.metro-cc.ru/products/okorok-svinoj-v-vakuumnoj-upakovke-atyashevo",
+        "brand": "АТЯШЕВО"
+    },
+    {
+        "id": "80216",
+        "title": "Корейка свиная Атяшево без кости охлажденная, ~10кг",
+        "link": "https://online.metro-cc.ru/products/korejka-mpk-atyashevskij-vakuumnaya-upakovka-bez-kosti",
+        "brand": "АТЯШЕВО"
+    },
+    {
+        "id": "635078",
+        "title": "Лопатка свиная Атяшево охлажденная, ~9кг",
+        "link": "https://online.metro-cc.ru/products/lopatka-v-vakuumnoj-upakovke-atyashevo",
+        "brand": "АТЯШЕВО"
+    },
+    {
+        "id": "635079",
+        "title": "Вырезка свиная Атяшево охлажденная, ~6кг",
+        "link": "https://online.metro-cc.ru/products/vyrezka-vakuumnaya-upakovka-atyashevo",
+        "brand": "АТЯШЕВО"
+    },
+    {
+        "id": "96159",
+        "title": "Карбонад Ближние горки свиной охлажденный",
+        "link": "https://online.metro-cc.ru/products/karbonad-svinoj-blizhnie-gorki-1-kg",
+        "brand": "БЛИЖНИЕ ГОРКИ"
+    },
+    {
+        "id": "96158",
+        "title": "Окорок свиной Ближние горки охлажденный, ~1кг",
+        "link": "https://online.metro-cc.ru/products/okorok-svinoj-blizhnie-gorki-v-vakuumnoj-upakovke-1-kg",
+        "brand": "БЛИЖНИЕ ГОРКИ"
+    },
+    {
+        "id": "96147",
+        "title": "Лопатка Ближние горки свиная охлажденная",
+        "link": "https://online.metro-cc.ru/products/lopatka-vakuumnaya-upakovka-dmitrogorskij-produkt",
+        "brand": "БЛИЖНИЕ ГОРКИ"
+    },
+    {
+        "id": "97132",
+        "title": "Стейк Ближние горки из свиной шейки охлажденный, 400г",
+        "link": "https://online.metro-cc.ru/products/stejk-iz-shejki-blizhnie-gorki-svinoj-400-g-97132",
+        "brand": "БЛИЖНИЕ ГОРКИ"
+    },
+    {
+        "id": "628320",
+        "title": "Окорок Ближние горки свиной охлажденный",
+        "link": "https://online.metro-cc.ru/products/okorok-blizhnie-gorki-svinoj",
+        "brand": "БЛИЖНИЕ ГОРКИ"
+    },
+    {
+        "id": "96157",
+        "title": "Лопатка Ближние горки свиная TF охлажденная, 1кг",
+        "link": "https://online.metro-cc.ru/products/lopatka-blizhnie-gorki-v-vakuumnoj-upakovke-1-kg",
+        "brand": "БЛИЖНИЕ ГОРКИ"
+    },
+    {
+        "id": "96155",
+        "title": "Шейка свиная Ближние горки охлажденная",
+        "link": "https://online.metro-cc.ru/products/shejka-vakuumnaya-upakovka-dmitrogorskij-produkt",
+        "brand": "БЛИЖНИЕ ГОРКИ"
+    },
+    {
+        "id": "628316",
+        "title": "Лопатка Ближние горки свиная TF охлажденная",
+        "link": "https://online.metro-cc.ru/products/lopatka-blizhnie-gorki-tf",
+        "brand": "БЛИЖНИЕ ГОРКИ"
+    },
+    {
+        "id": "96154",
+        "title": "Окорок Ближние горки свиной охлажденный",
+        "link": "https://online.metro-cc.ru/products/art_96154",
+        "brand": "БЛИЖНИЕ ГОРКИ"
+    },
+    {
+        "id": "96160",
+        "title": "Шейка свиная Ближние горки охлажденная",
+        "link": "https://online.metro-cc.ru/products/shejka-blizhnie-gorki-v-vakuumnoj-upakovke-1-kg",
+        "brand": "БЛИЖНИЕ ГОРКИ"
+    },
+    {
+        "id": "96146",
+        "title": "Корейка Ближние горки из свинины охлажденный",
+        "link": "https://online.metro-cc.ru/products/art_96146",
+        "brand": "БЛИЖНИЕ ГОРКИ"
+    },
+    {
+        "id": "96156",
+        "title": "Вырезка Ближние горки свиная охлажденная",
+        "link": "https://online.metro-cc.ru/products/art_96156",
+        "brand": "БЛИЖНИЕ ГОРКИ"
+    },
+    {
+        "id": "235286",
+        "title": "Ребрышки свинина Ближние горки для запекания охлажденные, ~1кг",
+        "link": "https://online.metro-cc.ru/products/1kg-rebryshki-svinina-blizhnie-gorki-dzapekaniya-vu-ohl",
+        "brand": "БЛИЖНИЕ ГОРКИ"
+    },
+    {
+        "id": "97139",
+        "title": "Котлета Ближние горки свиная натуральная на кости охлажденная, 400г",
+        "link": "https://online.metro-cc.ru/products/art_97139",
+        "brand": "БЛИЖНИЕ ГОРКИ"
+    },
+    {
+        "id": "96145",
+        "title": "Карбонад Ближние горки из свинины охлажденный",
+        "link": "https://online.metro-cc.ru/products/art_96145",
+        "brand": "БЛИЖНИЕ ГОРКИ"
+    },
+    {
+        "id": "235287",
+        "title": "Котлеты из свинины Ближние горки домашние охлажденные, 400г",
+        "link": "https://online.metro-cc.ru/products/400g-kotlety-blizhnie-gorki-domashnie-iz-svin-lotok-ohl",
+        "brand": "БЛИЖНИЕ ГОРКИ"
+    },
+    {
+        "id": "97138",
+        "title": "Медальоны Ближние горки из свиной вырезки охлажденные, 320г",
+        "link": "https://online.metro-cc.ru/products/art_97138",
+        "brand": "БЛИЖНИЕ ГОРКИ"
+    },
+    {
+        "id": "628322",
+        "title": "Карбонад Ближние горки свиной охлажденный",
+        "link": "https://online.metro-cc.ru/products/karbonad-blizhnie-gorki-svinoj",
+        "brand": "БЛИЖНИЕ ГОРКИ"
+    },
+    {
+        "id": "82786",
+        "title": "Лопатка Ближние горки свиная в маринаде, ~1-1.2кг",
+        "link": "https://online.metro-cc.ru/products/lopatka-v-marinade-blizhnie-gorki-v-vakuumnoj-upakovke",
+        "brand": "БЛИЖНИЕ ГОРКИ"
+    },
+    {
+        "id": "128479",
+        "title": "Корейка свиная Бутчер на кости для производства охлажденная",
+        "link": "https://online.metro-cc.ru/products/korejka-nk-d-proizvodstva-ohl-v-u",
+        "brand": "БУТЧЕР"
+    },
+    {
+        "id": "128468",
+        "title": "Окорок свиной Бутчер без кости охлажденный",
+        "link": "https://online.metro-cc.ru/products/okorok-svinoj-b-k-ohl-v-u-128468",
+        "brand": "БУТЧЕР"
+    },
+    {
+        "id": "128478",
+        "title": "Карбонад Бутчер Люкс из свинины для производства охлажденный",
+        "link": "https://online.metro-cc.ru/products/karbonad-lyuks-iz-d-proizvodstva-ohl-v-u",
+        "brand": "БУТЧЕР"
+    },
+    {
+        "id": "128469",
+        "title": "Ребро свиное Бутчер гриль охлажденное",
+        "link": "https://online.metro-cc.ru/products/rebro-svinoe-gril-ohl-v-u",
+        "brand": "БУТЧЕР"
+    },
+    {
+        "id": "128466",
+        "title": "Корейка свиная Бутчер на кости охлажденная",
+        "link": "https://online.metro-cc.ru/products/korejka-nk-ohl-v-u",
+        "brand": "БУТЧЕР"
+    },
+    {
+        "id": "128467",
+        "title": "Лопатка свиная Бутчер без кости охлажденная",
+        "link": "https://online.metro-cc.ru/products/lopatka-b-k-ohl-v-u-128467",
+        "brand": "БУТЧЕР"
+    },
+    {
+        "id": "128471",
+        "title": "Шейка свиная Бутчер Люкс охлажденная",
+        "link": "https://online.metro-cc.ru/products/shejka-lyuks-ohl-v-u",
+        "brand": "БУТЧЕР"
+    },
+    {
+        "id": "128485",
+        "title": "Шейка свиная Бутчер классическая для производства охлажденная",
+        "link": "https://online.metro-cc.ru/products/shejka-klassicheskaya-d-proizvodstva-ohl-v-u",
+        "brand": "БУТЧЕР"
+    },
+    {
+        "id": "128465",
+        "title": "Карбонад Бутчер Люкс из свинины охлажденный",
+        "link": "https://online.metro-cc.ru/products/karbonad-lyuks-iz-ohl-v-u",
+        "brand": "БУТЧЕР"
+    },
+    {
+        "id": "128482",
+        "title": "Окорок свиной Бутчер без кости для производства охлажденный",
+        "link": "https://online.metro-cc.ru/products/okorok-svinoj-b-k-d-proizvodstva-ohl-v-u",
+        "brand": "БУТЧЕР"
+    },
+    {
+        "id": "216655",
+        "title": "Лопатка свиная на кости охлажденная, ~1.5кг",
+        "link": "https://online.metro-cc.ru/products/15kg-lopatka-svinaya-na-kosti-ohl-vu",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "234818",
+        "title": "Карбонад свиной Коралл охлажденный, ~3кг",
+        "link": "https://online.metro-cc.ru/products/karbonad-svinoy-korall-ohlazhdennyy-3kg",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "234820",
+        "title": "Окорок свиной Коралл охлажденный, ~8кг",
+        "link": "https://online.metro-cc.ru/products/okorok-svinoy-korall-ohlazhdennyy-8kg",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "216653",
+        "title": "Окорок свиной на кости охлажденный, ~1.5кг",
+        "link": "https://online.metro-cc.ru/products/15kg-okorok-svinoy-na-kosti-ohl-vu",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "234819",
+        "title": "Лопатка свиная Коралл охлажденная, ~4кг",
+        "link": "https://online.metro-cc.ru/products/lopatka-svinaya-korall-ohlazhdennaya-4kg",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "216647",
+        "title": "Грудинка свиная на кости охлажденная, ~1.5кг",
+        "link": "https://online.metro-cc.ru/products/15kg-grudinka-svinaya-nk-ohl-vu",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "216649",
+        "title": "Лопатка свиная без кости охлажденная, ~1кг",
+        "link": "https://online.metro-cc.ru/products/1kg-lopatka-svinaya-bk-ohl-vu",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "373055",
+        "title": "Шея свиная крупный кусок охлажденная",
+        "link": "https://online.metro-cc.ru/products/sheya-krupnyj-kusok-vakuumnaya-upakovka",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "372764",
+        "title": "Вырезка свиная охлажденная",
+        "link": "https://online.metro-cc.ru/products/vyrezka-v-vakuumnoj-upakovke",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "114167",
+        "title": "Корейка свиная на кости охлажденная",
+        "link": "https://online.metro-cc.ru/products/korejka-svinaya-n-k-ohl-v-u",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "568962",
+        "title": "Вырезка свиная охлажденная",
+        "link": "https://online.metro-cc.ru/products/svinaya-vyrezka-ohlazhdennaya-vakuumnaya-upakovka",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "369700",
+        "title": "Лопатка свиная охлажденная",
+        "link": "https://online.metro-cc.ru/products/svinoe-file-lopatki-v-vakuumnoj-upakovke",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "216650",
+        "title": "Корейка свиная без кости охлажденная, ~1кг",
+        "link": "https://online.metro-cc.ru/products/1kg-koreyka-svinaya-bk-ohl-vu",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "375968",
+        "title": "Окорок свиной охлажденный",
+        "link": "https://online.metro-cc.ru/products/okorok-svinoj-vakuumnaya-upakovka",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "234815",
+        "title": "Вырезка свиная Коралл охлажденная, ~2кг",
+        "link": "https://online.metro-cc.ru/products/vyrezka-svinaya-korall-ohlazhdennaya-2kg",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "216648",
+        "title": "Окорок свиной без кости охлажденный, ~1кг",
+        "link": "https://online.metro-cc.ru/products/1kg-okorok-svinoy-bk-ohl-vu",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "568961",
+        "title": "Карбонад свиной без кости охлажденный",
+        "link": "https://online.metro-cc.ru/products/karbonad-svinoj-bez-kosti-vakuumnaya-upakovka",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "216645",
+        "title": "Шея свиная без кости охлажденная, ~1кг",
+        "link": "https://online.metro-cc.ru/products/1kg-sheya-svinaya-bk-ohl-vu",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "375972",
+        "title": "Карбонад свиной охлажденный, ~4.25кг",
+        "link": "https://online.metro-cc.ru/products/korejka-importnaya",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "654956",
+        "title": "Вырезка Промагро свиная охлажденная",
+        "link": "https://online.metro-cc.ru/products/vyrezka-vakuumnaya-upakovka-654956",
+        "brand": "Без бренда"
+    },
+    {
+        "id": "619313",
+        "title": "Карбонад Дмитрогорский продукт свиной охлажденный",
+        "link": "https://online.metro-cc.ru/products/karbonad-svinoj-v-u",
+        "brand": "ДМИТРОГОРСКИЙ ПРОДУКТ"
+    },
+    {
+        "id": "568958",
+        "title": "Лопатка свиная Заволжский МК без рульки",
+        "link": "https://online.metro-cc.ru/products/art_568958",
+        "brand": "ЗАВОЛЖСКИЙ  МК"
+    },
+    {
+        "id": "568960",
+        "title": "Шейка свиная Заволжский МК без кости охлажденная",
+        "link": "https://online.metro-cc.ru/products/shejka-bez-kosti-vakuumnaya-upakovka-zmk",
+        "brand": "ЗАВОЛЖСКИЙ  МК"
+    },
+    {
+        "id": "568959",
+        "title": "Окорок свиной Заволжский МК без кости охлажденный, ~1.1кг",
+        "link": "https://online.metro-cc.ru/products/svinoj-okorok-bez-kosti-vakuumnaya-upakovka-zmk",
+        "brand": "ЗАВОЛЖСКИЙ  МК"
+    },
+    {
+        "id": "328745",
+        "title": "Окорок свиной Мираторг без кости охлажденный, ~9.96кг",
+        "link": "https://online.metro-cc.ru/products/okorok-svinoj-bez-kozhi-vakuumnaya-upakovka-miratorg",
+        "brand": "МИРАТОРГ"
+    },
+    {
+        "id": "328743",
+        "title": "Лопатка свиная Мираторг без рульки охлажденная, ~5.77кг",
+        "link": "https://online.metro-cc.ru/products/lopatka-bez-rulki-vakuumnaya-upakovka-miratorg",
+        "brand": "МИРАТОРГ"
+    },
+    {
+        "id": "328742",
+        "title": "Карбонад свиной Мираторг без кости охлажденный, ~2.16кг",
+        "link": "https://online.metro-cc.ru/products/karbonad-svinoj-bez-kozhi-vakuumnaya-upakovka-miratorg",
+        "brand": "МИРАТОРГ"
+    },
+    {
+        "id": "640573",
+        "title": "Ребрышки Мираторг свиные классические",
+        "link": "https://online.metro-cc.ru/products/rebryshki-svinye-klassicheskie-miratorg",
+        "brand": "МИРАТОРГ"
+    },
+    {
+        "id": "381864",
+        "title": "Карбонад Мираторг свиной без кости охлажденный",
+        "link": "https://online.metro-cc.ru/products/karbonad-svinoj-bez-kozhi-podlozhka-miratorg",
+        "brand": "МИРАТОРГ"
+    },
+    {
+        "id": "381809",
+        "title": "Лопатка Мираторг свиная без кожи охлажденная",
+        "link": "https://online.metro-cc.ru/products/lopatka-bez-kozhi-podlozhka-miratorg",
+        "brand": "МИРАТОРГ"
+    },
+    {
+        "id": "509168",
+        "title": "Вырезка Мираторг DF свиная охлажденная",
+        "link": "https://online.metro-cc.ru/products/vyrezka-df",
+        "brand": "МИРАТОРГ"
+    },
+    {
+        "id": "381810",
+        "title": "Шейка свиная Мираторг без кости охлажденная",
+        "link": "https://online.metro-cc.ru/products/shejka-bez-kozhi-podlozhka-miratorg",
+        "brand": "МИРАТОРГ"
+    },
+    {
+        "id": "381811",
+        "title": "Окорок Мираторг свиной без кости охлажденный",
+        "link": "https://online.metro-cc.ru/products/art_381811",
+        "brand": "МИРАТОРГ"
+    },
+    {
+        "id": "123407",
+        "title": "Ребрышки Мираторг Пикантные свиные охлажденные",
+        "link": "https://online.metro-cc.ru/products/pm-rebryshki-miratorg-sv-ohl-v-u",
+        "brand": "МИРАТОРГ"
+    },
+    {
+        "id": "87162",
+        "title": "Стейк Мираторг Мраморный из свинины в соусе BBQ охлажденный, 310г",
+        "link": "https://online.metro-cc.ru/products/stejk-mramornyj-svinoj-v-souse-bbq-miratorg-310-g",
+        "brand": "МИРАТОРГ"
+    },
+    {
+        "id": "328759",
+        "title": "Рулька Мираторг свиная охлажденная",
+        "link": "https://online.metro-cc.ru/products/rulka-vakuumnaya-upakovka",
+        "brand": "МИРАТОРГ"
+    },
+    {
+        "id": "234840",
+        "title": "Вырезка свиная Образцово охлажденная, ~300г",
+        "link": "https://online.metro-cc.ru/products/vyrezka-svinaya-obraztsovo-ohlazhdennaya-300g",
+        "brand": "ОБРАЗЦОВО"
+    },
+    {
+        "id": "234833",
+        "title": "Окорок свиной Образцово охлажденный, ~1кг",
+        "link": "https://online.metro-cc.ru/products/okorok-svinoy-obraztsovo-ohlazhdennyy-1kg",
+        "brand": "ОБРАЗЦОВО"
+    },
+    {
+        "id": "234831",
+        "title": "Карбонад свиной Образцово охлажденный, ~1кг",
+        "link": "https://online.metro-cc.ru/products/karbonad-svinoy-obraztsovo-ohlazhdennyy-1kg",
+        "brand": "ОБРАЗЦОВО"
+    },
+    {
+        "id": "234832",
+        "title": "Лопатка свиная Образцово охлажденная, ~1кг",
+        "link": "https://online.metro-cc.ru/products/lopatka-svinaya-obraztsovo-ohlazhdennaya-1kg",
+        "brand": "ОБРАЗЦОВО"
+    },
+    {
+        "id": "234834",
+        "title": "Шейка свиная Образцово охлажденная, ~1кг",
+        "link": "https://online.metro-cc.ru/products/sheyka-svinaya-obraztsovo-ohlazhdennaya-1kg",
+        "brand": "ОБРАЗЦОВО"
+    },
+    {
+        "id": "214310",
+        "title": "Вырезка свиная Останкино охлажденная, ~1кг",
+        "link": "https://online.metro-cc.ru/products/1kg-vyrezka-svinaya-ostankino-ohl-vu",
+        "brand": "ОСТАНКИНО"
+    },
+    {
+        "id": "558049",
+        "title": "Ребрышки свиные Останкино барбекю крупные куски охлажденные, ~880г",
+        "link": "https://online.metro-cc.ru/products/rebryshki-barbekyu-krupnye-kuski-vakuumnaya-upakovka-ostankino",
+        "brand": "ОСТАНКИНО"
+    },
+    {
+        "id": "305602",
+        "title": "Рулька Останкино свиная охлажденная, ~1.04кг",
+        "link": "https://online.metro-cc.ru/products/rulka-vakuumnaya-upakovka-ostankino",
+        "brand": "ОСТАНКИНО"
+    },
+    {
+        "id": "305581",
+        "title": "Шейка свиная Останкино нарезанная охлажденная, ~1.22кг",
+        "link": "https://online.metro-cc.ru/products/shejka-ostankino-narezannaya",
+        "brand": "ОСТАНКИНО"
+    },
+    {
+        "id": "312728",
+        "title": "Ребра свиные Останкино крупный кусок охлажденный, ~2.05кг",
+        "link": "https://online.metro-cc.ru/products/rebra-svinye-krupnyj-kusok-vakuumnaya-upakovka-312728",
+        "brand": "ОСТАНКИНО"
+    },
+    {
+        "id": "305601",
+        "title": "Грудинка свиная Останкино без кости крупный кусок охлажденная, ~900г",
+        "link": "https://online.metro-cc.ru/products/grudinka-bez-kosti-krupnyj-kusok-vakuumnaya-upakovka-ostankino",
+        "brand": "ОСТАНКИНО"
+    },
+    {
+        "id": "233289",
+        "title": "Окорок рождественский Останкино охлажденный, ~1кг",
+        "link": "https://online.metro-cc.ru/products/okorok-rozhdestvenskiy-ostankino-ohlazhdennyy-1kg",
+        "brand": "ОСТАНКИНО"
+    },
+    {
+        "id": "79768",
+        "title": "Свинина Останкино для шашлыка охлажденная",
+        "link": "https://online.metro-cc.ru/products/dlya-shashlyka-ostankino-gazonapolnennaya-upakovka",
+        "brand": "ОСТАНКИНО"
+    },
+    {
+        "id": "305583",
+        "title": "Гуляш Останкино из свинины охлажденный",
+        "link": "https://online.metro-cc.ru/products/gulyash-svinoj-ostankino-1kg-305583",
+        "brand": "ОСТАНКИНО"
+    },
+    {
+        "id": "311520",
+        "title": "Корейка Останкино свиная на кости",
+        "link": "https://online.metro-cc.ru/products/korejka-na-kosti-svinaya-gazovaya-sreda-ostankino",
+        "brand": "ОСТАНКИНО"
+    },
+    {
+        "id": "305580",
+        "title": "Шницель Останкино свиной охлажденный",
+        "link": "https://online.metro-cc.ru/products/shnicel-svinoj-ostankino-305580",
+        "brand": "ОСТАНКИНО"
+    },
+    {
+        "id": "123261",
+        "title": "Кореечка Останкино по-фински в лотке для запекания",
+        "link": "https://online.metro-cc.ru/products/koreechka-po-finski-mgs-ohl-lotok-dlya-zap",
+        "brand": "ОСТАНКИНО"
+    },
+    {
+        "id": "217643",
+        "title": "Кореечка Останкино в пряном маринаде охлажденная, 400г",
+        "link": "https://online.metro-cc.ru/products/koreechka-ostankino-v-pryanom-marinade-ohlazhdennaya-400g",
+        "brand": "ОСТАНКИНО"
+    },
+    {
+        "id": "214312",
+        "title": "Шейка свиная Останкино охлажденная, ~1кг",
+        "link": "https://online.metro-cc.ru/products/1kg-sheyka-ostankino-ohl-vu",
+        "brand": "ОСТАНКИНО"
+    },
+    {
+        "id": "214311",
+        "title": "Карбонад свиной Останкино без кости охлажденный, ~1кг",
+        "link": "https://online.metro-cc.ru/products/1kg-karbonad-svinoy-ostankino-bk-ohl-vu",
+        "brand": "ОСТАНКИНО"
+    },
+    {
+        "id": "305606",
+        "title": "Вырезка Останкино свиная",
+        "link": "https://online.metro-cc.ru/products/vyrezka-ostankino-v-vakuumnoj-upakovke",
+        "brand": "ОСТАНКИНО"
+    },
+    {
+        "id": "656130",
+        "title": "Корейка Останкино свиная на кости без позвоночника",
+        "link": "https://online.metro-cc.ru/products/korejka-na-kosti-bez-pozvonochnika-v-u-ostankino",
+        "brand": "ОСТАНКИНО"
+    },
+    {
+        "id": "510634",
+        "title": "Шейка свиная Останкино",
+        "link": "https://online.metro-cc.ru/products/shejka-svinaya-ostankino-vakuumnaya-upakovka",
+        "brand": "ОСТАНКИНО"
+    },
+    {
+        "id": "559371",
+        "title": "Окорок Останкино свиной охлажденный",
+        "link": "https://online.metro-cc.ru/products/okorok-svinoj-vakuumnaya-upakovka-ostankino",
+        "brand": "ОСТАНКИНО"
+    },
+    {
+        "id": "343297",
+        "title": "Вырезка Останкино свиная охлажденная",
+        "link": "https://online.metro-cc.ru/products/vyrezka-vakuumnaya-upakovka-ostankino",
+        "brand": "ОСТАНКИНО"
+    },
+    {
+        "id": "305599",
+        "title": "Карбонад Останкино свиной крупный кусок охлажденный",
+        "link": "https://online.metro-cc.ru/products/karbonad-svinoj-krupnyj-kusok-v-u-305599",
+        "brand": "ОСТАНКИНО"
+    },
+    {
+        "id": "580944",
+        "title": "Лопатка Останкино свиная без кости",
+        "link": "https://online.metro-cc.ru/products/lopatka-ostankino-bez-kosti",
+        "brand": "ОСТАНКИНО"
+    },
+    {
+        "id": "123260",
+        "title": "Свинина Останкино праздничная для запекания охлажденная",
+        "link": "https://online.metro-cc.ru/products/prazdnichnaya-mgs-ohl-lotok-dlya-zap",
+        "brand": "ОСТАНКИНО"
+    },
+    {
+        "id": "75489",
+        "title": "Ребра Самсон свиные охлажденные, 1кг",
+        "link": "https://online.metro-cc.ru/products/rebra-svinye-samson-1-kg-75489",
+        "brand": "САМСОН"
+    },
+    {
+        "id": "75223",
+        "title": "Вырезка Самсон свиная охлажденная",
+        "link": "https://online.metro-cc.ru/products/vyrezka-samson-1-kg",
+        "brand": "САМСОН"
+    },
+    {
+        "id": "88401",
+        "title": "Шашлык Самсон из свиного окорока охлажденный",
+        "link": "https://online.metro-cc.ru/products/shashlyk-iz-svinogo-okoroka-samson-vedro-1-6-1-7kg",
+        "brand": "САМСОН"
+    },
+    {
+        "id": "642230",
+        "title": "Лопатка Слово мясника свиная охлажденная",
+        "link": "https://online.metro-cc.ru/products/lopatka-slovo-myasnika",
+        "brand": "СЛОВО МЯСНИКА"
+    },
+    {
+        "id": "642287",
+        "title": "Шейка свиная Слово мясника охлажденная, ~1кг",
+        "link": "https://online.metro-cc.ru/products/sheya",
+        "brand": "СЛОВО МЯСНИКА"
+    },
+    {
+        "id": "642231",
+        "title": "Окорок свиной Слово мясника охлажденный, ~1.1кг",
+        "link": "https://online.metro-cc.ru/products/okorok-svinoj-slovo-myasnika",
+        "brand": "СЛОВО МЯСНИКА"
+    },
+    {
+        "id": "642233",
+        "title": "Карбонад Слово мясника свиной без кожи охлажденный",
+        "link": "https://online.metro-cc.ru/products/karbonad-svinoj-bez-kozhi-slovo-myasnika",
+        "brand": "СЛОВО МЯСНИКА"
+    },
+    {
+        "id": "584077",
+        "title": "Шашлык из свинины Слово мясника отборный, ~2кг",
+        "link": "https://online.metro-cc.ru/products/shashlyk-iz-svininy-slovo-myasnika-otbornyj-2kg",
+        "brand": "СЛОВО МЯСНИКА"
+    },
+    {
+        "id": "123297",
+        "title": "Лопатка Слово мясника свиная в маринаде охлажденная",
+        "link": "https://online.metro-cc.ru/products/lopatka-v-marinade-tf-slovo-myasnika-ohl-paket-dlya-zap",
+        "brand": "СЛОВО МЯСНИКА"
+    },
+    {
+        "id": "562526",
+        "title": "Карбонад Тамбовский бекон свиной без кости охлажденный",
+        "link": "https://online.metro-cc.ru/products/korejka-bez-kosti-tambovskij-bekon-v-u",
+        "brand": "ТАМБОВСКИЙ БЕКОН"
+    },
+    {
+        "id": "562529",
+        "title": "Лопатка Тамбовский бекон свиная без кости охлажденная",
+        "link": "https://online.metro-cc.ru/products/lopatka-bez-kosti-tambovskij-bekon-v-u",
+        "brand": "ТАМБОВСКИЙ БЕКОН"
+    },
+    {
+        "id": "562525",
+        "title": "Шейка свиная Тамбовский бекон охлажденная",
+        "link": "https://online.metro-cc.ru/products/shejka-tambovskij-bekon-vakuumnaya-upakovka",
+        "brand": "ТАМБОВСКИЙ БЕКОН"
+    },
+    {
+        "id": "562532",
+        "title": "Окорок Тамбовский бекон свиной без кости охлажденный",
+        "link": "https://online.metro-cc.ru/products/okorok-tambovskij-bekon-svinoj",
+        "brand": "ТАМБОВСКИЙ БЕКОН"
+    },
+    {
+        "id": "545210",
+        "title": "Шея свиная Филея охлажденная, ~1кг",
+        "link": "https://online.metro-cc.ru/products/sheya-v-vakuumnoj-upakovke-545210",
+        "brand": "ФИЛЕЯ"
+    },
+    {
+        "id": "545209",
+        "title": "Окорок свиной Филея охлажденный, ~1кг",
+        "link": "https://online.metro-cc.ru/products/okorok-v-vakuumnoj-upakovke",
+        "brand": "ФИЛЕЯ"
+    },
+    {
+        "id": "545207",
+        "title": "Корейка свиная Филея охлажденная, ~1кг",
+        "link": "https://online.metro-cc.ru/products/korejka-v-vakuumnoj-upakovke",
+        "brand": "ФИЛЕЯ"
+    },
+    {
+        "id": "545208",
+        "title": "Лопатка свиная Филея охлажденная, ~1кг",
+        "link": "https://online.metro-cc.ru/products/lopatka-v-vakuumnoj-upakovke",
+        "brand": "ФИЛЕЯ"
+    },
+    {
+        "id": "236206",
+        "title": "Полуфабрикат для студня Филье Проперти охлажденный, 400г",
+        "link": "https://online.metro-cc.ru/products/400g-polufabrikat-dlya-studnya-file-properti-lot-ohl",
+        "brand": "ФИЛЬЕ ПРОПЕРТИ"
+    },
+    {
+        "id": "233310",
+        "title": "Рябчики свиные Филье Проперти в маринаде охлажденные, ~500г",
+        "link": "https://online.metro-cc.ru/products/ryabchiki-svinye-file-properti-v-marinade-ohlazhdennye-500g",
+        "brand": "ФИЛЬЕ ПРОПЕРТИ"
+    },
+    {
+        "id": "120874",
+        "title": "Гуляш Филье Проперти из свинины охлажденный",
+        "link": "https://online.metro-cc.ru/products/gulyash-filye-properti-iz-ohl-lotok",
+        "brand": "ФИЛЬЕ ПРОПЕРТИ"
+    },
+    {
+        "id": "211869",
+        "title": "Лопатки свиная мякоть Филье Проперти охлажденная, ~1кг",
+        "link": "https://online.metro-cc.ru/products/1kg-myakot-file-properti-lopatki-svinina-ohl-vu",
+        "brand": "ФИЛЬЕ ПРОПЕРТИ"
+    },
+    {
+        "id": "117204",
+        "title": "Стейк Филье Проперти из шеи свинины фермерский барбекю охлажденный",
+        "link": "https://online.metro-cc.ru/products/stejk-fermerskij-barbekyu-iz-shei-filye-properti",
+        "brand": "ФИЛЬЕ ПРОПЕРТИ"
+    },
+    {
+        "id": "97478",
+        "title": "Шейка свиная Черкизово без кости охлажденная, ~3кг",
+        "link": "https://online.metro-cc.ru/products/shejka-1-kg",
+        "brand": "ЧЕРКИЗОВО"
+    },
+    {
+        "id": "97482",
+        "title": "Корейка свиная Черкизово на кости охлажденная, ~2кг",
+        "link": "https://online.metro-cc.ru/products/korejka-na-kosti-cherkizovo-vakuumnaya-upakovka",
+        "brand": "ЧЕРКИЗОВО"
+    },
+    {
+        "id": "232431",
+        "title": "Свинина по-дижонски Черкизово охлажденная, 700г",
+        "link": "https://online.metro-cc.ru/products/700g-svinina-po-dizhonski-cherkizovo-tf-ohl",
+        "brand": "ЧЕРКИЗОВО"
+    },
+    {
+        "id": "97481",
+        "title": "Лопатка свиная Черкизово без кости охлажденная, ~1кг",
+        "link": "https://online.metro-cc.ru/products/lopatka-bez-kosti-cherkizovo-vakuumnaya-upakovka",
+        "brand": "ЧЕРКИЗОВО"
+    }
+]
